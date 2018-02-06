@@ -1,0 +1,11 @@
+c:\users\ggreyz\documents\visual studio 2015\Projects\BomberSoz\BomberSoz\bin\Debug\BomberSoz.exe.config
+c:\rep\BomberSoz\bin\Debug\BomberSoz.exe.config
+C:\rep\BomberSoz\bin\Debug\NLog.config
+C:\rep\BomberSoz\bin\Debug\BomberSoz.exe
+C:\rep\BomberSoz\bin\Debug\BomberSoz.pdb
+C:\rep\BomberSoz\bin\Debug\NLog.dll
+C:\rep\BomberSoz\bin\Debug\NLog.xml
+C:\rep\BomberSoz\obj\Debug\BomberSoz.csprojResolveAssemblyReference.cache
+C:\rep\BomberSoz\obj\Debug\BomberSoz.exe
+C:\rep\BomberSoz\obj\Debug\BomberSoz.pdb
+c:\rep\BomberSoz\bin\Debug\Maps\1.txt
